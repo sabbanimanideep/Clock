@@ -3,6 +3,9 @@
 ## Description
 This is a simple analog clock implemented using HTML, CSS, and JavaScript. The clock dynamically updates to show the current time with smoothly animated hour, minute, and second hands.
 
+## Screenshot
+![Clock Screenshot](./Screenshot%202025-03-27%20at%2011.14.55%E2%80%AFPM.png)
+
 ## Features
 - Displays a real-time analog clock.
 - Smooth transitions for the clock hands.
@@ -32,8 +35,7 @@ This is a simple analog clock implemented using HTML, CSS, and JavaScript. The c
 ## Customization
 You can modify the clock's appearance by editing `style.css`. Change the colors, borders, or animations to fit your preference.
 
-## Screenshot
-![Clock Screenshot](./Screenshot%202025-03-27%20at%2011.14.55%E2%80%AFPM.png)
+
 
 ## License
 This project is open-source and available for modification and distribution under the MIT License.
