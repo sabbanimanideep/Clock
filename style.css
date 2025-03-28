@@ -37,18 +37,14 @@ main {
 
 }
 
-/* 
+
 .hour {
-    transform: rotate(90deg);
-    transition-timing-function: cubic-bezier(0.1, 2.97, 0.5, 1);
+    padding: 10px;
+
 }
 
-.minute {
-    transform: rotate(90deg);
-    transition-timing-function: cubic-bezier(0.1, 2.97, 0.5, 1);
-}
+.minute {}
 
 .second {
-    transform: rotate(90deg);
-    transition-timing-function: cubic-bezier(0.1, 2.97, 0.5, 1);
-} */
+    height: 5px;
+}
